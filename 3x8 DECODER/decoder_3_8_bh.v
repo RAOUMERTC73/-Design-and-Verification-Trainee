@@ -15,6 +15,7 @@ begin
         3'b101: y= 8'b0010_0000;
         3'b110: y= 8'b0100_0000;
         3'b111: y= 8'b1000_0000;
+		default:  y = 8'bxxxx_xxxx;
     endcase
 end
 endmodule
