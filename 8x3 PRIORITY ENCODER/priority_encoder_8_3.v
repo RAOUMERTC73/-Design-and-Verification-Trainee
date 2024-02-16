@@ -22,5 +22,8 @@ module priority_encoder(
             y=3'b110; end
             else if(i[7]==1) begin
             y=3'b111; end
+			else begin
+			 y=3'bxxx;
+			end
         end
 endmodule
