@@ -18,6 +18,8 @@ module bcd_7_seg_tb;
     #100 bcd = 4'b0101;
     #100 bcd = 4'b0110;
     #100 bcd = 4'b0111;
+    #100 bcd = 4'b1000; 
+	#100 bcd = 4'b1001;
     #100 bcd = 4'b1111; 
     #1000 $finish;
   end
