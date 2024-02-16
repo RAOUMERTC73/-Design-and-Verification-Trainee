@@ -1,11 +1,11 @@
 # WEEKS-OF-RTL
-SemiRise Training Program: currently working on a remote training focused on Digital logic design, Verilog, System Verilog, Computer Architecture, and C programming. This training has provided me with hands-on experience in designing and verifying digital circuits using advanced software tools. I have gained an in-depth understanding of how digital circuits function and have developed my skills in logic design, programming, and simulation. This experience has fueled my passion for chip design and verification, and I look forward to applying these skills to future projects in the field. In this training, I learned the Basic concept and implementation of different modules in the Verilog language which are followed as and this repo aslo a part of my course which I learned on line platform Mindluster.
+The training Semirise is leading by the professional working in IC design and Verification companies.In this training we learn Digital logic design, Verilog and System Verilog language for IC designing and Verification, C programming, Computer Architecture for processor designing and verification.In this training, I learned the Basic concept and implementation of different modules in the Verilog language which are followed as and this repo aslo a part of my course which I learned on line platform Mindluster.
 <hr>
   
 <h2>Here is the list of weekly or daily updates  RTL Codes:</h2>
- ALL LOGIC GATES AND HALF ADDER.
- FULL ADDER (Three Modelling styles). <br>
- FULL SUBTRACTOR (Three Modelling styles). <br>
+ ALL LOGIC GATES AND HALF ADDER.<br>
+ FULL ADDER . <br>
+ FULL SUBTRACTOR. <br>
  8x1 Mux (Three Modelling styles).<br>
  8x1 Mux by 4x1 mux and 2x1 mux.<br>
  GATES BY 2X1 MUX.<br>
