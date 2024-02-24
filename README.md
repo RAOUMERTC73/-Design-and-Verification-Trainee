@@ -19,6 +19,7 @@ The training Semirise is leading by the professional working in IC design and Ve
  ADDER-SUBTRACTOR.<br>
  FLIPFLOPS (Behavioural model).<br>
  Multiplier 4-Bit.<br>
+ BARREL SHIFTER.<br>
  Counters.<br>
  Serial in Serial Out shift register(SISO).<br>
  Serial in parallel Out shift register.(SIPO)<br>
