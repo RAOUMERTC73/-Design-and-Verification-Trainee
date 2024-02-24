@@ -6,7 +6,7 @@ module comparator_tb;
   wire  LT;
   reg [3:0] a;
   reg [3:0] b;
-  comparator_4bit c1(EQ,GT,LT,a,b);
+  comparator_4bit_bh dut(EQ,GT,LT,a,b);
 initial begin
     //for greater than
     a = 5;

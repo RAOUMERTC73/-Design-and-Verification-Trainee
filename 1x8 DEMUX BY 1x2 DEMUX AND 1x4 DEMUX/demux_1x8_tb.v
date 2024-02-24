@@ -1,11 +1,12 @@
 `timescale 1ns / 1ps
 
 module demux_1x8_tb;
-    wire [7:0]y;
+    wire y0, y1, y2, y3, y4, y5, y6, y7;
     reg i;
     reg [2:0]s;
 
-    demux_1x8 dut(y,i,s);
+    demux_1x8_bh dut(y0, y1, y2, y3, y4, y5, y6, y7,i,s);
+	 
     initial begin
         i=1'b0;
         s=3'b000;
