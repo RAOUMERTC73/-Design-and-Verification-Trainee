@@ -18,6 +18,7 @@ The training Semirise is leading by the professional working in IC design and Ve
  COMPARATOR 4 BIT(Bhevioural model).<br>
  ADDER-SUBTRACTOR.<br>
  FLIPFLOPS (Behavioural model).<br>
+ 64 bit register.<br>
  Multiplier 4-Bit.<br>
  BARREL SHIFTER.<br>
  Counters.<br>
