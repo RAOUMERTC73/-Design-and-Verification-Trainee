@@ -1,5 +1,5 @@
 # WEEKS-OF-RTL
-The training Semirise is leading by the professional working in IC design and Verification companies.In this training we learn Digital logic design, Verilog and System Verilog language for IC designing and Verification, C programming, Computer Architecture for processor designing and verification.In this training, I learned the Basic concept and implementation of different modules in the Verilog language which are followed as and this repo aslo a part of my course which I learned on line platform Mindluster and  Udemy_Verilog_Comprehensive_Masterclass git practice repo. 
+The git repo contain my  training Semirise is leading by the professional working in IC design and Verification companies.In this training we learn Digital logic design, Verilog and System Verilog language for IC designing and Verification, C programming, Computer Architecture for processor designing and verification.In this training, I learned the Basic concept and implementation of different modules in the Verilog language which are followed as and this repo aslo a part of my course which I learned on line platform Mindluster and  Udemy_Verilog_Comprehensive_Masterclass git practice repo and In my university course Digital Logic Design(DLD) and Advanced Digital Electronic and Interfacing Techniques (ADIT).  
 <hr>
   
 <h2>Here is the list of weekly or daily updates  RTL Codes:</h2>
@@ -30,6 +30,9 @@ The training Semirise is leading by the professional working in IC design and Ve
  ALU 8-bit<br>
  Swapping of two numbers<br>
  N bit square number.<br>
+ CLOCK DIVIDER.<br>
+ DIGITAL CLOCK.<br>
+ RAM.<br>
  FSM .<br>
  Synchronous FIFO.<br>
  LAST IN FIRST OUT (STACK).<br>
