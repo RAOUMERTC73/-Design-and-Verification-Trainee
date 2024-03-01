@@ -8,8 +8,8 @@ wire [64-1:0] data_out;
 
 // Instantiate 
 
-register_64bit dut(data_in,clk,reset,data_out);// methode 1 sequenc matter
-register_64bit dut(.*); //methode 2  test bench variable name same as dut module name
+//register_64bit dut(data_in,clk,reset,data_out);// methode 1 sequenc matter
+//register_64bit dut(.*); //methode 2  test bench variable name same as dut module name
 register_64bit dut(.data_out(data_out),.data_in(data_in),.clk(clk),.reset(reset)); 
 //methode 3  best practice   sequenc and same name dosent matter
 
