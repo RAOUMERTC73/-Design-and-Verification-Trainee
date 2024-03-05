@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 
-module decade_counter(
-    output reg [3:0]q,
+module decade_counter #(parameter N = 4)(
+    output reg [N-1:0]q,
     input clk,rst
     );
     always @(posedge clk) begin
@@ -12,7 +12,7 @@ module decade_counter(
             q <= 4'b0000;
     end
      else begin
-          q = q + 1;
+          q <= q + 1;
       end
     end
 endmodule

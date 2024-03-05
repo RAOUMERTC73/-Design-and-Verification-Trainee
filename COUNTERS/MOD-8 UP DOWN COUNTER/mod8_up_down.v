@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 
-module mod8_up_down(
-	output reg [2:0]q,
+module mod8_up_down #(parameter N = 3)(
+	output reg [N-1:0]q,
 	input  mod,clk, rst);
 
 	always @(posedge clk) begin
