@@ -39,9 +39,10 @@ module barrel_bh_tb;
     #20;
     Lr = 1;
     #20;
-    
-    // End simulation
-    $finish;
   end
-
+initial begin
+      $dumpfile("dump.vcd");
+      $dumpvars(0);
+      
+   end
 endmodule
