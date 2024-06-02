@@ -12,5 +12,8 @@ module decade_counter_tb;
         #500 $finish();
     end
     always #10 clk = ~clk;
-    
+    initial begin
+      $dumpfile("dump.vcd");
+      $dumpvars(0);
+    end
 endmodule

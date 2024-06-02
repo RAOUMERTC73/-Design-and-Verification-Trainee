@@ -1,0 +1,8 @@
+# vsim all_gates_tb 
+# Start time: 15:51:00 on Apr 22,2024
+# ** Error: (vsim-3170) Could not find 'all_gates_tb'.
+#         Searched libraries:
+#             C:/Users/Rao/Desktop/Week-OF-RTLcode/DAYS-OF-RTL/ALL LOGIC GATES AND HALF ADDER/work
+# Error loading design
+# End time: 15:51:01 on Apr 22,2024, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 0

@@ -1,0 +1,53 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Rao/Desktop/Week-OF-RTLcode/DAYS-OF-RTL/64 bit register
+vregister_64bit
+Z1 !s110 1713560255
+!i10b 1
+!s100 <A0leoz8BOnbfiH;L`]a]2
+I?oe;2FXYhDbFlHJ3TMY3U3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1709134000
+8register_64bit.v
+Fregister_64bit.v
+L0 3
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1713560255.000000
+Z5 !s107 register_64bit_tb.sv|register_64bit.v|
+Z6 !s90 register_64bit.v|register_64bit_tb.sv|
+!i113 1
+Z7 tCvgOpt 0
+vregister_64bit_tb
+DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+R1
+!i10b 1
+!s100 ]DKbdVPSW;jMaXTMK<B_J1
+I`aFk0F=ZoVd79gd7<cJ7i3
+R2
+!s105 register_64bit_tb_sv_unit
+S1
+R0
+w1709225726
+8register_64bit_tb.sv
+Fregister_64bit_tb.sv
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7

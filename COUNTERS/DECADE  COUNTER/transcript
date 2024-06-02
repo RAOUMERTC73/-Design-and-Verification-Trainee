@@ -1,0 +1,24 @@
+# //  Questa Sim-64
+# //  Version 2021.1 win64 Jan 19 2021
+# //
+# //  Copyright 1991-2021 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  QuestaSim and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+# vsim decade_counter_tb 
+# Start time: 15:00:22 on Apr 22,2024
+# ** Note: (vsim-3812) Design is being optimized...
+# Loading work.decade_counter_tb(fast)
+add wave -position insertpoint sim:/decade_counter_tb/*
+# ** UI-Msg: (vish-4014) No objects found matching '/decade_counter_tb/*'.
+add wave -position insertpoint sim:/decade_counter_tb/*
+# ** UI-Msg: (vish-4014) No objects found matching '/decade_counter_tb/*'.
+# End time: 15:01:52 on Apr 22,2024, Elapsed time: 0:01:30
+# Errors: 0, Warnings: 0

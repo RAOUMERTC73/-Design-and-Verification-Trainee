@@ -1,0 +1,17 @@
+# vsim register_64bit_tb 
+# Start time: 01:58:14 on Apr 20,2024
+# Loading sv_std.std
+# Loading work.register_64bit_tb
+# Loading work.register_64bit
+add wave -position insertpoint sim:/register_64bit_tb/*
+# A time value could not be extracted from the current line
+run -a
+# ** Note: $finish    : register_64bit_tb.sv(43)
+#    Time: 80 ps  Iteration: 0  Instance: /register_64bit_tb
+# 1
+# Break in Module register_64bit_tb at register_64bit_tb.sv line 43
+eixt
+# invalid command name "eixt"
+exit
+# End time: 02:00:00 on Apr 20,2024, Elapsed time: 0:01:46
+# Errors: 1, Warnings: 0

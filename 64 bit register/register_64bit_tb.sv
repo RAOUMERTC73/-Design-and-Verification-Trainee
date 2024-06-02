@@ -1,10 +1,10 @@
 // Code your testbench here
 // or browse Examples
 module register_64bit_tb();
-reg [64-1:0] data_in;
-reg reset;
+logic [64-1:0] data_in;
+logic reset;
 bit clk;  // default=0
-wire [64-1:0] data_out;
+logic [64-1:0] data_out;
 
 // Instantiate 
 

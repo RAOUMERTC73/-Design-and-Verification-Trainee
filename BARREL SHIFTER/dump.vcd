@@ -1,0 +1,58 @@
+$date
+	Sun Mar 10 21:38:09 2024
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module barrel_bh_tb $end
+$var wire 8 ! Out [7:0] $end
+$var reg 8 " In [7:0] $end
+$var reg 1 # Lr $end
+$var reg 3 $ n [2:0] $end
+$scope module dut $end
+$var wire 8 % In [7:0] $end
+$var wire 1 # Lr $end
+$var wire 3 & n [2:0] $end
+$var reg 8 ' Out [7:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+b1010101 '
+b1 &
+b10101010 %
+b1 $
+0#
+b10101010 "
+b1010101 !
+$end
+#20
+b1010100 !
+b1010100 '
+1#
+#40
+b10101000 !
+b10101000 '
+b10 $
+b10 &
+#60
+b101010 !
+b101010 '
+0#
+#80
+b101 !
+b101 '
+b101 $
+b101 &
+#100
+b1000000 !
+b1000000 '
+1#
+#120

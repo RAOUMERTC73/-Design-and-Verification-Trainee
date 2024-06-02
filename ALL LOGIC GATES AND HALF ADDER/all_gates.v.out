@@ -1,0 +1,41 @@
+#! /c/Source/iverilog-install/bin/vvp
+:ivl_version "12.0 (devel)" "(s20150603-1539-g2693dd32b)";
+:ivl_delay_selection "TYPICAL";
+:vpi_time_precision + 0;
+:vpi_module "C:\iverilog\lib\ivl\system.vpi";
+:vpi_module "C:\iverilog\lib\ivl\vhdl_sys.vpi";
+:vpi_module "C:\iverilog\lib\ivl\vhdl_textio.vpi";
+:vpi_module "C:\iverilog\lib\ivl\v2005_math.vpi";
+:vpi_module "C:\iverilog\lib\ivl\va_math.vpi";
+S_0000019131a62770 .scope module, "gates" "gates" 2 4;
+ .timescale 0 0;
+    .port_info 0 /INPUT 1 "a";
+    .port_info 1 /INPUT 1 "b";
+    .port_info 2 /OUTPUT 1 "y1";
+    .port_info 3 /OUTPUT 1 "y2";
+    .port_info 4 /OUTPUT 1 "y3";
+    .port_info 5 /OUTPUT 1 "y4";
+    .port_info 6 /OUTPUT 1 "y5";
+o0000019131a96ff8 .functor BUFZ 1, C4<z>; HiZ drive
+o0000019131a97028 .functor BUFZ 1, C4<z>; HiZ drive
+L_0000019131a0d5b0 .functor AND 1, o0000019131a96ff8, o0000019131a97028, C4<1>, C4<1>;
+L_0000019131a087d0 .functor OR 1, o0000019131a96ff8, o0000019131a97028, C4<0>, C4<0>;
+L_0000019131a0d880 .functor XOR 1, o0000019131a96ff8, o0000019131a97028, C4<0>, C4<0>;
+L_0000019131a0db50 .functor AND 1, o0000019131a96ff8, o0000019131a97028, C4<1>, C4<1>;
+L_0000019131a62ff0 .functor NOT 1, L_0000019131a0db50, C4<0>, C4<0>, C4<0>;
+L_0000019131a631f0 .functor OR 1, o0000019131a96ff8, o0000019131a97028, C4<0>, C4<0>;
+L_0000019131a62b50 .functor NOT 1, L_0000019131a631f0, C4<0>, C4<0>, C4<0>;
+v0000019131a0dab0_0 .net *"_ivl_10", 0 0, L_0000019131a631f0;  1 drivers
+v0000019131a0d7e0_0 .net *"_ivl_6", 0 0, L_0000019131a0db50;  1 drivers
+v0000019131a08730_0 .net "a", 0 0, o0000019131a96ff8;  0 drivers
+v0000019131a0d510_0 .net "b", 0 0, o0000019131a97028;  0 drivers
+v0000019131a0bd50_0 .net "y1", 0 0, L_0000019131a0d5b0;  1 drivers
+v0000019131a0bdf0_0 .net "y2", 0 0, L_0000019131a087d0;  1 drivers
+v0000019131a0be90_0 .net "y3", 0 0, L_0000019131a0d880;  1 drivers
+v0000019131a0bf30_0 .net "y4", 0 0, L_0000019131a62ff0;  1 drivers
+v0000019131a62900_0 .net "y5", 0 0, L_0000019131a62b50;  1 drivers
+# The file index is used to find the file name in the following table.
+:file_names 3;
+    "N/A";
+    "<interactive>";
+    "all_gates.v";
