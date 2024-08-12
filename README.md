@@ -12,7 +12,6 @@ I have implemented various modules in Verilog as part of this training, which is
 Here are some visuals from my training:
 
 ![Semirise Training](semirisen.jfif)  
-![Udemy Course Content](udemy_content.PNG)
 
 ## Weekly/Daily RTL Code Updates
 
