@@ -5,7 +5,7 @@ This Git repository contains my training materials from Semirise, a program led 
 - **Digital Logic Design**
 - **Verilog and SystemVerilog** for IC design and verification
 - **C Programming**
-- **Computer Architecture** for processor design and verification
+- **Computer Architecture and Organization (RISC V)** for processor design and verification
 
 I have implemented various modules in Verilog as part of this training, which is also part of my coursework on the online platforms Mindluster and Udemy in the "Verilog Comprehensive Masterclass." Additionally, this work is related to my university courses: **Digital Logic Design (DLD)** and **Advanced Digital Electronics and Interfacing Techniques (ADIT)**.
 
