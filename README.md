@@ -1,43 +1,56 @@
 # WEEKS-OF-RTL
-The git repo contain my  training Semirise is leading by the professional working in IC design and Verification companies.In this training we learn Digital logic design, Verilog and System Verilog language for IC designing and Verification, C programming, Computer Architecture for processor designing and verification.In this training, I learned the Basic concept and implementation of different modules in the Verilog language which are followed as and this repo aslo a part of my course which I learned on line platform Mindluster and  Udemy_Verilog_Comprehensive_Masterclass git practice repo and In my university course Digital Logic Design(DLD) and Advanced Digital Electronic and Interfacing Techniques (ADIT).  
-<hr>
-  !['semirisen.jfif'](semirisen.jfif) 
-  !['udemy_content.PNG'](udemy_content.PNG)  
-  
-<h2>Here is the list of weekly or daily updates  RTL Codes:</h2>
- ALL LOGIC GATES AND HALF ADDER.<br>
- FULL ADDER . <br>
- FULL SUBTRACTOR. <br>
- 8x1 Mux (Three Modelling styles).<br>
- 8x1 Mux by 4x1 mux and 2x1 mux.<br>
- GATES BY 2X1 MUX.<br>
- 8x1 Demux .<br>
- 1x8 Demux by 1x2 demux and 1x4 demux.<br>
- 8:3 enocder .<br>
- 3:8 decoder .<br>
- 8:3 priority enocder (Bhevioural model).<br>
- BCD TO 7 SEGMENT. <br>
- COMPARATOR 4 BIT(Bhevioural model).<br>
- ADDER-SUBTRACTOR.<br>
- FLIPFLOPS (Behavioural model).<br>
- 64 bit register.<br>
- Multiplier 4-Bit.<br>
- BARREL SHIFTER.<br>
- Counters.<br>
- Serial in Serial Out shift register(SISO).<br>
- Serial in parallel Out shift register.(SIPO)<br>
- parallel in parallel Out shift register.(PIPO)<br>
- parallel in Serial Out shift register.(PISO)<br>
- Universal Shift Register.<br>
- ALU 8-bit<br>
- Swapping of two numbers<br>
- N bit square number.<br>
- CLOCK DIVIDER.<br>
- DIGITAL CLOCK.<br>
- RAM.<br>
- FSM .<br>
- Synchronous FIFO.<br>
- LAST IN FIRST OUT (STACK).<br>
- DIGITAL CLOCK.<br>
- Simple processor Design key concept.<br>
- Processor implementation on Verilog / System Verilog language.<br>
+
+This Git repository contains my training materials from Semirise, a program led by professionals working in IC design and verification. In this training, we learned:
+
+- **Digital Logic Design**
+- **Verilog and SystemVerilog** for IC design and verification
+- **C Programming**
+- **Computer Architecture** for processor design and verification
+
+I have implemented various modules in Verilog as part of this training, which is also part of my coursework on the online platforms Mindluster and Udemy in the "Verilog Comprehensive Masterclass." Additionally, this work is related to my university courses: **Digital Logic Design (DLD)** and **Advanced Digital Electronics and Interfacing Techniques (ADIT)**.
+
+Here are some visuals from my training:
+
+![Semirise Training](semirisen.jfif)  
+![Udemy Course Content](udemy_content.PNG)
+
+## Weekly/Daily RTL Code Updates
+
+Below is the list of RTL (Register-Transfer Level) code implementations:
+
+- **All Logic Gates and Half Adder**
+- **Full Adder**
+- **Full Subtractor**
+- **8x1 Mux (Three Modeling Styles)**
+- **8x1 Mux using 4x1 mux and 2x1 mux**
+- **Gates using 2x1 Mux**
+- **8x1 Demux**
+- **1x8 Demux using 1x2 demux and 1x4 demux**
+- **8:3 Encoder**
+- **3:8 Decoder**
+- **8:3 Priority Encoder (Behavioral Model)**
+- **BCD to 7-Segment Converter**
+- **4-bit Comparator (Behavioral Model)**
+- **Adder-Subtractor**
+- **Flip-Flops (Behavioral Model)**
+- **64-bit Register**
+- **4-bit Multiplier**
+- **Barrel Shifter**
+- **Counters**
+- **Serial-in Serial-out Shift Register (SISO)**
+- **Serial-in Parallel-out Shift Register (SIPO)**
+- **Parallel-in Parallel-out Shift Register (PIPO)**
+- **Parallel-in Serial-out Shift Register (PISO)**
+- **Universal Shift Register**
+- **8-bit ALU**
+- **Swapping of Two Numbers**
+- **N-bit Square Number**
+- **Clock Divider**
+- **Digital Clock**
+- **RAM**
+- **FSM (Finite State Machine)**
+- **Synchronous FIFO**
+- **LIFO (Stack)**
+- **Digital Clock**
+- **Simple Processor Design - Key Concepts**
+- **Processor Implementation in Verilog/SystemVerilog**
