@@ -12,3 +12,6 @@ module nand_using_mux(
     mux_2x1 m1(1'b1,~b,a,y);
 endmodule
 
+
+
+

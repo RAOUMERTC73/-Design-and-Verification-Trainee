@@ -9,3 +9,8 @@ module xor_using_mux(
     output y);
     mux_2x1 m1(a,~a,b,y);
 endmodule
+
+
+
+
+

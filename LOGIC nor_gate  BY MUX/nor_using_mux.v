@@ -12,3 +12,6 @@ module nor_using_mux(
     mux_2x1 m1(~b,1'b0,a,y);
 endmodule
 
+
+
+
