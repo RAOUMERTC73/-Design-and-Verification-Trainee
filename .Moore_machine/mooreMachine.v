@@ -82,3 +82,6 @@ begin
 		state	<=	state_nxt;
 end	
 endmodule
+
+
+

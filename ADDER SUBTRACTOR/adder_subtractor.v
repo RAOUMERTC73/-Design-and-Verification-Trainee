@@ -28,3 +28,10 @@ module full_adder ( a ,b ,c ,dout ,carry );
     assign dout = a ^ b ^ c;   
     assign carry = (a&b) | (b&c) | (c&a);
 endmodule
+
+
+
+
+
+
+

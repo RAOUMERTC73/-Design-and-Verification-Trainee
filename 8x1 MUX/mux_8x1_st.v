@@ -20,3 +20,11 @@ and a1(a,w1,w2,w3,i[0]),
     
 or o1(y,a,b,c,d,e,f,g,h);
 endmodule
+
+
+
+
+
+
+
+

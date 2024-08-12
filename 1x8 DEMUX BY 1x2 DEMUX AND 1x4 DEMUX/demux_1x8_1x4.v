@@ -36,3 +36,9 @@ module demux_1x2(
   and a1(inter[0],i,w);
   and a2(inter[1],i,s);
 endmodule
+
+
+
+
+
+

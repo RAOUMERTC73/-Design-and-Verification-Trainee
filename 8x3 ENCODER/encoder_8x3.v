@@ -9,3 +9,10 @@ module encoder_8x3(
     assign y[0]= i[1] | i[3] | i[5] | i[7];
     
 endmodule
+
+
+
+
+
+
+

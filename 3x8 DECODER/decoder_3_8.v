@@ -19,3 +19,13 @@ module decoder_3_8(
         assign y[7]= i[2]&i[1]&i[0];
 endmodule
 
+
+
+
+
+
+
+
+
+
+
